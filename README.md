@@ -7,6 +7,15 @@ A professional, lightweight Bash tool for Android developers and enthusiasts. Ef
 ---
 
 ## ✨ Features
+
+
+### 📸 Ekran Görüntüleri
+
+| Menü | Cihaz Bağlantısı | İşlemler |
+| :---: | :---: | :---: |
+| ![Görsel 1](1.jpeg) | ![Görsel 2](2.jpeg) | ![Görsel 3](3.jpeg) |
+
+
 - **Auto-IP Detection**: No more searching for IP addresses in settings. Fetch it instantly via USB.
 - **Persistent Database**: Save your devices with custom aliases (e.g., `WorkPhone`, `Pixel6`).
 - **One-Click Connectivity**: Connect and start `scrcpy` mirroring in one command.
